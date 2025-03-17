@@ -1,0 +1,18 @@
+query listOfUsers {
+  users(
+    page: 1
+    limit: 5 ) {
+        data {
+        id
+        title
+        firstName
+        lastName
+        email
+        picture
+      }
+        total
+        page
+        limit
+        offset
+  }
+}

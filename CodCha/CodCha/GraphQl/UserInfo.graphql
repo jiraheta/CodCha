@@ -1,0 +1,14 @@
+query UserInfo($id: String!) {
+  user(id: $id){
+    id
+    title
+    firstName
+    lastName
+    gender
+    email
+    phone
+    picture
+    registerDate
+    dateOfBirth
+  }
+}
