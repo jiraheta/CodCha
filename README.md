@@ -4,7 +4,7 @@
 ## Requirements:
 - Build a native iOS app written in Swift
 - Use this repo and commit often
-- Styling is not important, but try and make it aesthetically pleasing. Feel free to draw inspiration from our color schema and designs seen in: https://tend.money 
+- Styling is not important, but try and make it aesthetically pleasing. 
 - Use best practices of clean code
 
 
